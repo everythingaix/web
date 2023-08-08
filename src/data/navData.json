@@ -1,0 +1,54 @@
+{
+  "nav": [
+    {
+      "nav_name": "Home",
+      "link": "/home",
+      "type": "",
+      "sub_nav": []
+    },
+    {
+      "nav_name": "Something1",
+      "link": "team",
+      "type": "dropdown",
+      "sub_nav": [
+        {
+          "name": "Team",
+          "link": "/team"
+        },
+        {
+          "name": "Team Details",
+          "link": "/team-details"
+        }
+      ]
+    },
+    {
+      "nav_name": "Somethign 2",
+      "link": "blog",
+      "type": "dropdown",
+      "sub_nav": [
+        {
+          "name": "Blog",
+          "link": "/blog"
+        },
+        {
+          "name": "Blog V2",
+          "link": "/blog-v2"
+        },
+        {
+          "name": "Category",
+          "link": "/category"
+        },
+        {
+          "name": "Blog Details",
+          "link": "/blog-details"
+        }
+      ]
+    },
+    {
+      "nav_name": "Somethign 3",
+      "link": "/contact",
+      "type": "",
+      "sub_nav": []
+    }
+  ]
+}
